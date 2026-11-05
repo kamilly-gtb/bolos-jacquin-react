@@ -27,6 +27,12 @@ body {
 }
 
 
+.container-notfound {
+    margin: 0 auto;
+    display: block;
+}
+
+
 /* ---------- H2 ---------- */
 .box_h2 {
     font-family: "Libre Caslon Text", serif;
